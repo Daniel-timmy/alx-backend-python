@@ -1,4 +1,4 @@
-#!/usr/in/env python3
+#!/usr/bin/env python3
 """type-annotated function sum_list"""
 import typing
 
